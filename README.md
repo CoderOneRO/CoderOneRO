@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me: szabolcskusmodi@gmail.com, linkedin.com/in/szabolcskusmodi
+- 📫 How to reach me: szabolcskusmodi@gmail.com
